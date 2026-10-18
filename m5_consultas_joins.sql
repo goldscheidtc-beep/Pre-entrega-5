@@ -88,3 +88,5 @@ FROM (
 GROUP BY canal;
 
 -- Hallazgo: La consulta muestra que Tecnología tuvo un total de 4950, indicando que tiene mas ventas. Mientras que Muebles alcanzó 744 implicando menos movimiento.
+
+
